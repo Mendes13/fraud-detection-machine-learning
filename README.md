@@ -78,3 +78,17 @@ O projeto demonstrou a importância do tratamento de classes desbalanceadas e da
 - Notebook completo da análise
 - Relatório em PDF
 - Resultados dos modelos
+
+- ## Visualizações
+
+### Importância das Variáveis
+
+![Feature Importance](images/feature_importance.png)
+
+### Heatmap de Correlação
+
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+### Matriz de Confusão - Random Forest
+
+![Confusion Matrix](images/confusion_matrix_rf.png)
