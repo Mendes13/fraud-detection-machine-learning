@@ -13,6 +13,18 @@ O conjunto de dados contém:
 - 492 registros classificados como fraude
 - Forte desbalanceamento entre as classes
 
+## Principais Resultados
+
+✅ Precision: 94%
+
+✅ Recall: 82%
+
+✅ F1-Score: 87%
+
+✅ Melhor modelo: Random Forest
+
+✅ Principais variáveis: V17, V14 e V12
+
 ## Etapas do Projeto
 
 ### 1. Análise Exploratória dos Dados (EDA)
